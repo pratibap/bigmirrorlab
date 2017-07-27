@@ -1,10 +1,9 @@
 API URL: https://private-f3b4b-interview2.apiary-mock.com/data
 
-Use: Bootstrap, Jquery, SCSS, HTML
+Uses: Bootstrap, Jquery, AJAX, JSON, HTML, CSS
 
 Task:
 
-Either set up a web server to handle this or do it entirely front end.  Up to you.
 Create a page that matches the attached screenshots for desktop size and mobile sized devices using responsive css (values in image may differ from data in api response)
 Match the styling as close as possible.  Default fonts were used.
 Format the “timestamp” property to match m/d/yyyy
